@@ -19,7 +19,7 @@ The goal of the project is to collect run-time information by adding an LLVM pas
 
 1. basic execution information including the number of LLVM instructions, basic blocks;
 2. expensive instructions information like the number memory operation multiplication and branches since they may largely affect execution time;
-3. function information on the number of times each function is called for similar reasons and comparison among profiling tools.
+3. function information on the number of times each function is called to help us get familiar with function calls in LLVM.
 
 
 
